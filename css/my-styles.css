@@ -1,0 +1,55 @@
+/* LAYOUT
+================================================================ */
+
+body {
+    padding-top: 80px
+}
+
+.container {
+    max-width: 1000px;
+}
+
+.table {
+    text-align: left;
+    font-size: 0.6em;  
+    background-color: #fff;  
+}
+
+crOverview {
+    text-align: center;
+}
+
+.form-control {
+    font-size: 0.8em;
+}
+
+#crOverview{
+    table-layout: fixed;
+    text-align: center;
+    object-position: center;
+}
+
+#indexText{
+    text-align: center;
+}
+
+
+/* JUMBOTRON
+================================================================ */
+
+.jumbotron {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+/* GLYPHICONS
+================================================================ */
+
+.glyphicon {
+    font-size: 3em;
+    display: block;
+    text-align: center;
+    color: #3a87ad
+}
